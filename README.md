@@ -5,8 +5,7 @@
 [![](https://img.shields.io/badge/-@mohmostafas-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mohmostafas)
 [![](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=momostafas&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fmomostafas&logo=leetcode&logoColor=yellow&style=flat-square)](https://leetcode.com/momostafas/)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=momostafas.com&url=https%3A%2F%2Fxlbd.me)](https://momostafasportfolio.z1.web.core.windows.net)
-[![Stack Overflow](https://img.shields.io/badge/-mohamed-mostafa-%23FF5722?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/12043678)
-
+[![Stack Overflow](https://img.shields.io/badge/-mohamed--mostafa-%23FF5722?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/12043678/mohamed-mostafa)
 
 :computer: Senior Front-end Software Engineer.
 
